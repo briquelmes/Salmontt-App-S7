@@ -1,0 +1,7 @@
+ChinquihueSur;PuertoMontt;1250
+CalbucoNorte;Calbuco;980
+Pichipelluco;PuertoMontt;2100
+EnsenadaLlanquihue;PuertoVaras;500
+Quetalmahue;Ancud;1500
+IslaHuar;Hualaihué;1750
+ParguaSur;Calbuco;2300
